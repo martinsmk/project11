@@ -1,0 +1,45 @@
+h1 {
+    color: #14e01e;
+    font-size: 2.5em;
+    text-align: left; 
+    background-color: #da0b0b; 
+}
+
+h1{
+    color: #14e01e;
+    font-size: 2.5em;
+    text-align: left; 
+    background-color: #110a0a; 
+}
+h2{
+    color: #e014a3;
+    font-size: 2em;
+    text-align: left; 
+    background-color: #e95f0f
+}
+p{
+    color: #e014a3;
+    font-size: 1.5em;
+    text-align: left; 
+}
+table{
+    background-color: #38caca
+}
+
+.contact-info{
+    color: #bb0785;
+    font-size: 1.0em;
+    text-align: right; 
+}
+
+
+#holiday-homework{
+    color: #14b7e0;
+    font-size: 1.5em;
+    text-align: left; 
+    background-color: #111110
+}
+
+html{
+    background-color: #4ca13bc0;
+}
